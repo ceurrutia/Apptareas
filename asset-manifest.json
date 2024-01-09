@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Apptareas/static/css/main.227dc024.css",
-    "main.js": "/Apptareas/static/js/main.363d6ac5.js",
+    "main.js": "/Apptareas/static/js/main.166c7647.js",
     "static/media/logo.png": "/Apptareas/static/media/logo.6d922bd2ef17394ddd20.png",
     "index.html": "/Apptareas/index.html",
     "main.227dc024.css.map": "/Apptareas/static/css/main.227dc024.css.map",
-    "main.363d6ac5.js.map": "/Apptareas/static/js/main.363d6ac5.js.map"
+    "main.166c7647.js.map": "/Apptareas/static/js/main.166c7647.js.map"
   },
   "entrypoints": [
     "static/css/main.227dc024.css",
-    "static/js/main.363d6ac5.js"
+    "static/js/main.166c7647.js"
   ]
 }
