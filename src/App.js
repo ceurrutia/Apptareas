@@ -10,7 +10,7 @@ function App() {
       </div>
 
       <div className="tareas-lista-principal">
-        <h1>Mis tareas </h1>
+        <h1>Things to do today</h1>
 
         <ListaDeTareas />
       </div>
