@@ -1,6 +1,7 @@
 import logo from "./imagenes/logo.png";
 import "./App.css";
 import ListaDeTareas from "./componentes/ListaDeTareas";
+import Fechadehoy from "./componentes/Fechadehoy";
 
 function App() {
   return (
@@ -10,7 +11,10 @@ function App() {
       </div>
 
       <div className="tareas-lista-principal">
+        
         <h1>Things to do today</h1>
+        <Fechadehoy />
+       
 
         <ListaDeTareas />
       </div>

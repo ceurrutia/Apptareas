@@ -22,6 +22,7 @@ function TareaFormulario(props){
     }
     
     props.onSubmit(tareaNueva);
+   
 
     }
 
@@ -36,7 +37,7 @@ function TareaFormulario(props){
             onChange={ manejarCambio }
             />
 
-            <button className='tarea-boton'>
+            <button className='tarea-boton' autocomplete>
                 Add task
             </button>
 
